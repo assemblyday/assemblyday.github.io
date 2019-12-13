@@ -3,6 +3,6 @@ layout: post
 title: Welcome to Assembly Day!
 ---
 
-Assembly day will happen in Italy somewhere in spring 2020
+Assembly day will happen somewhere in Italy in spring 2020
 
 STAY TUNED!
