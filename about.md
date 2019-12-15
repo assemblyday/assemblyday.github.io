@@ -8,5 +8,5 @@ Because assembly matters, even in 2020!
 
 ### Contact me
 
-by email [guly@guly.org](mailto:guly@guly.org)
+by email [guly@guly.org](mailto:guly@guly.org)  
 on twitter @theguly
